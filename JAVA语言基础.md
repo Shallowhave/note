@@ -4,7 +4,7 @@
 
 ### 1.课程整体内容概述
 
-<img src="C:\Users\34400\AppData\Roaming\Typora\typora-user-images\image-20200924154750018.png" alt="image-20200924154750018" style="zoom:150%;" />
+<img src="D:%5Cnote%5CJAVA%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.assets%5Cimage-20200924154750018.png" alt="image-20200924154750018" style="zoom:150%;" />
 
 1. 第一部分：编程语言核心结构
    - 主要知识点：变量、基本语法、分支、循环、数组、...
@@ -85,7 +85,7 @@
 
    功劳归功于：JVM
 
-   ![image-20200924161331460](C:\Users\34400\AppData\Roaming\Typora\typora-user-images\image-20200924161331460.png)
+   ![image-20200924161331460](D:%5Cnote%5CJAVA%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.assets%5Cimage-20200924161331460.png)
 
 ### 3. 开发环境搭建
 
@@ -101,7 +101,7 @@
 
 3. path环境变量的配置
 
-   ![image-20200924161809305](C:\Users\34400\AppData\Roaming\Typora\typora-user-images\image-20200924161809305.png)
+   ![image-20200924161809305](D:%5Cnote%5CJAVA%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.assets%5Cimage-20200924161809305.png)
 
 ### 4. 注释与API文档等
 
@@ -174,9 +174,9 @@
 
    - 具体的关键字：
 
-     ![image-20200924171923591](C:\Users\34400\AppData\Roaming\Typora\typora-user-images\image-20200924171923591.png)
+     ![image-20200924171923591](D:%5Cnote%5CJAVA%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.assets%5Cimage-20200924171923591.png)
 
-     ![image-20200924171941351](C:\Users\34400\AppData\Roaming\Typora\typora-user-images\image-20200924171941351.png)
+     ![image-20200924171941351](D:%5Cnote%5CJAVA%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.assets%5Cimage-20200924171941351.png)
 
 2. 保留字：现Java版本尚未使用，但以后版本可能会作为关键字使用。
 
